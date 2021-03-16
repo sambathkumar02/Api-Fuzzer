@@ -39,7 +39,7 @@ def Fuzz(file_name):
     file.close()
 
 
-Design.Pattern()
+Design.DesignPattern()
 url=input('Enter the URL (with / at end):')
 status_input=input('Enter status code you loooking for(separated by comma):')
 file_name=input('Enter the filename with path:')

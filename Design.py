@@ -1,9 +1,12 @@
-from colorama import Fore
 
+from pyfiglet import Figlet
 
-def Pattern():
-    print(Fore.GREEN+'**********************************************************************************')
-    print(Fore.GREEN+'* ------------------------API FUZZER----------------------------------------------*')
-    print(Fore.GREEN +'**********************************************************************************')
+def DesignPattern():
 
+    text=Figlet(font="standard")
+    print('-------------------------------------------------------------')
+    print(text.renderText("API-FUZZER"))
+    print('-------------------------------------------------------------')
+    print('                                  [+]Author:Sambath Kumar')
 
+DesignPattern()
