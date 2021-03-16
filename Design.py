@@ -8,5 +8,3 @@ def DesignPattern():
     print(text.renderText("API-FUZZER"))
     print('-------------------------------------------------------------')
     print('                                  [+]Author:Sambath Kumar')
-
-DesignPattern()
