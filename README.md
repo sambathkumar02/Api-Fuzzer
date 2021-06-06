@@ -3,18 +3,19 @@
 
 ## Usage
 
+Clone the Repository
 ```shell
 git clone https://github.com/sambathkumar02/Api-Fuzzer.git
 ```
-
+Traverse to the Folder
 ```
 cd APi-Fuzzer
 ```
-
+Install required Dependencies
 ```
 sudo pip3 install -r requirements.txt
 ```
-
+Run the Tool
 ```
 python api-fuzzer.py
 ```
