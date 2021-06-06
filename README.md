@@ -17,5 +17,5 @@ sudo pip3 install -r requirements.txt
 ```
 Run the Tool
 ```
-python api-fuzzer.py
+python ApiFuzzer.py
 ```
